@@ -14,8 +14,8 @@ Looking for an ML / Data Science internship
 | Data analysis | pandas, NumPy, EDA |
 | Classical ML | scikit-learn, XGBoost, AutoML |
 | NLP | TF-IDF, LDA, Naive Bayes, spaCy, Transformers |
-| Deep learning | PyTorch | TensorFlow | GradientDecent |
-| Tools | Git | Jupyter | GoogleCollab | PostgreSQL |
+| Deep learning | PyTorch,  TensorFlow, GradientDecent |
+| Tools | Git, Jupyter, GoogleCollab, PostgreSQL |
 
 ## Selected projects
 
