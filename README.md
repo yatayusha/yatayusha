@@ -28,7 +28,6 @@ I build end-to-end machine learning projects, from raw data to a working pipelin
 | [scientific-articles-topic-modeling](https://github.com/yatayusha/scientific-articles-topic-modeling) | Topic modeling of scientific articles | TF-IDF, LDA |
 | [article-classification](https://github.com/yatayusha/REPO-NAME) | Classification of articles using different text vectorization methods | Python, scikit-learn |
 | [ML-practice](https://github.com/yatayusha/ML-practice) | AutoML for tabular regression (football salary prediction) | XGBoost, scikit-learn |
-| [job-market-graph-analysis](https://github.com/yatayusha/job-market-graph-analysis) | Clustering of a vacancy graph | Python |
 
 ## 🏆 Highlights
 - Sber Code of Risk Hackathon: team-built AI agent for a risk-related business task, 96% accuracy vs. the reference agent
